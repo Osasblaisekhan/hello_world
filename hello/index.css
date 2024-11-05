@@ -1,0 +1,11 @@
+h1 {
+  text-transform: capitalize;
+  color: orange;
+  font-weight: 900;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 350px;
+  text-shadow: 50px 50px 50px rgba(red, green, blue, alpha);
+  font-size: xx-large;
+}
