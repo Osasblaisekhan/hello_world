@@ -1,7 +1,5 @@
 # hello_world
 my goal here is to master the skills i will be using in codegisoft academy
-# blise_portfolio
-In this project i will create a site in such that it can be run both on mobile devices and pc 
 <a name="readme-top"></a>
 
 <div align="center">
@@ -31,7 +29,7 @@ In this project i will create a site in such that it can be run both on mobile d
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Hello Codegisoft Academy <a name="about-project"></a>
+# 📖 Hello Codegisoft Academy <a name="This is simple project to print out hello codegisoft"></a>
 
 This is the first technical Codegisoft Academy project it tests more on Git, GitHub, GitHub Workflow and Linters.
 
@@ -70,7 +68,7 @@ Clone this repository to your desired folder:
 
 sh
   cd my-folder
-  git clone https://github.com/ngalamac/Hello-Codegisoft Academy.git
+  git clone https://github.com/Osasblaisekhan/hello_world.git Academy.git
 
 
 ### Install
@@ -122,7 +120,7 @@ sh
 
 Contributions, issues, and feature requests are welcome!
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
+## 🙏 Acknowledgments <a name="Ngala Mac"></a>
 
 I will like to thank Codegisoft Academy and all the students i've collaborated with
 

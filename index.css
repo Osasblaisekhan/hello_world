@@ -1,0 +1,15 @@
+body {
+  background: linear-gradient(0deg, orange, white);
+}
+
+h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: whitesmoke;
+  font-weight: 900;
+  font-size: 8rem;
+  margin-top: 250px;
+  text-transform: capitalize;
+  text-shadow: 40px 0 40px rgba(red, green, blue, alpha);
+}
